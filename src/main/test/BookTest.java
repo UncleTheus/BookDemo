@@ -1,5 +1,4 @@
 import com.demo.book.Book;
-import com.demo.book.Loan;
 import com.demo.book.Member;
 
 import java.time.LocalDateTime;
